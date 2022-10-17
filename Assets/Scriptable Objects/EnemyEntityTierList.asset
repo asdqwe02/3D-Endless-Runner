@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2a6e82110cda0948b18b696fa95578d, type: 3}
+  m_Name: EnemyEntityTierList
+  m_EditorClassIdentifier: 
+  tiers:
+  - minPower: 0
+    maxPower: 4
+    color: {r: 0.45353386, g: 0.9056604, b: 0.16660735, a: 1}
+  - minPower: 5
+    maxPower: 24
+    color: {r: 0.3609023, g: 1, b: 0, a: 0}
+  - minPower: 25
+    maxPower: 49
+    color: {r: 0.9056604, g: 0.5979101, b: 0.19223925, a: 0}
+  - minPower: 50
+    maxPower: 99
+    color: {r: 0.7735849, g: 0.18609823, b: 0.6916929, a: 0}
+  - minPower: 100
+    maxPower: 0
+    color: {r: 1, g: 0, b: 0.95238113, a: 0}
+  sizeMultiplier: 0.15

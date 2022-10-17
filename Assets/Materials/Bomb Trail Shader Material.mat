@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bomb Trail Shader Material
+  m_Shader: {fileID: -6465566751694194690, guid: 0ad10b045f6083643839dcdcdd2a14ba, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_339fe4cec94042d6994a652712d16b11:
+        m_Texture: {fileID: 2800000, guid: 94e01d3e9eeaef446a0fd008f0c114e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_0bf83674989e4396a490ed54e183da2a: 35
+    m_Colors:
+    - Color_407d488c8efe4c179c2605f8c97ef790: {r: 1.8666667, g: 0.23529412, b: 0.13333334, a: 1}
+    - Color_5e74612e1eaf40249ab5ab64bfe27761: {r: 3.811765, g: 2.0342777, b: 0.21952571, a: 1}
+    - Vector2_068a74a82285467dae985fc1919ef4ce: {r: -0.5, g: 0, b: 0, a: 0}
+    - Vector2_65ed8c28791444539068123e5a786033: {r: -0.5, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
