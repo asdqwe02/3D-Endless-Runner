@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 4d8d9cfbf495a4d638b9e18f212a9da1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Suisse Int'l Condensed Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0d91ebd40807e4584abe8ea952bbfe74, type: 3}
+  - {fileID: 12800000, guid: 33a53a332ec5c47adac19993343543c8, type: 3}
+  - {fileID: 12800000, guid: 84ae89212a5494a3d83a71f30779d183, type: 3}
+  - {fileID: 12800000, guid: 897cda0ad2ac64da7a52be85db390be7, type: 3}
+  - {fileID: 12800000, guid: dbd0932096b3d41d29bb3d00ccfa5109, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
